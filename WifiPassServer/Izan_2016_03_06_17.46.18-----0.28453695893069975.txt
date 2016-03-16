@@ -1,15 +1,5 @@
- MOVISTAR_CA33 :  7yd93wF8h4wAfQa3sZqo
- XSF-UPC :  1
- MOVISTAR_F922 :  aUP7xy3tT7kH7m4h7CNQ
- Orange-CB80 :  CE76936C
- Zhone_C477 :  PELKPA9TVS
- vodafone7479 :  5423fd827fa252
- AndroidAP :  yzvr7451
- ADAMO_01_58 :  N9ZKJ9FHNS
- Alumnes :  sgalumnes1a313fg
- Professors :  sgsldemontfort1903viladecans
- Aquaris E5 FHD :     key           - Para mostrar la clave en texto simple, establezca
- apptoide :  4u4fca2u
- JAZZTEL_1341 :  52206831m
- Izan :  izan1803
- ADAMO_0B_63 :  PELKPA9TVS
+ SSID | Password:
+
+	MOVISTAR_C33 :  7yd93wF8h4wAfQa3sZqo
+	MOVISTAR_F22 :  aUP7xy3tT7kH7m4h7CNQ
+	Orange-CB8 :  CE76936C
