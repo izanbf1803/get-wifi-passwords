@@ -1,5 +1,0 @@
- SSID | Password:
-
-	MOVISTAR_C33 :  7yd93wF8h4wAfQa3sZqo
-	MOVISTAR_F22 :  aUP7xy3tT7kH7m4h7CNQ
-	Orange-CB8 :  CE76936C
